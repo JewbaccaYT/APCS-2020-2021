@@ -51,7 +51,7 @@ colleges = ["Berklee College of Music", "Steven's Institute of Technology", "Obe
             "Oberlin Conservatory", "Purchase College"]
 # Cumulative Percentage and GPA calc to a 4 point scale
 cumulative = 77.03
-gpa = (cumulative / 100.0) * 4.0
+gpa = 2.3
 print("My name is " + " ".join(fullname) + " and I am 17 years old.\n"
                                            "I want to apply to " + ", ".join(colleges) + "." + "\n"
                                             "My GPA could be better, as it is currently a " + str(gpa) + '.\n' +
