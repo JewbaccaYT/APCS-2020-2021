@@ -1,3 +1,4 @@
+from tkinter import *
 from random import choice
 from os import system, name
 import time
